@@ -1,1 +1,1 @@
-web: gunicorn hello:basic
+web: gunicorn basic.wsgi --log-file -
