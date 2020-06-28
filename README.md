@@ -48,3 +48,4 @@ You can populate the site with random test data. This will also give you a feel 
 
 Now if you refresh the homepage, you should see something like the following:
 ![Homepage with test data](docs/screenshots/testdata.home.1.png "Homepage with test data")
+# awesome-blog
