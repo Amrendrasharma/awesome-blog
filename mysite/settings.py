@@ -25,7 +25,7 @@ SECRET_KEY = '_$ur^*adbe15%5(rsa-@mas4upc5xt1dqe8of*5^+j=4t-@#8z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
